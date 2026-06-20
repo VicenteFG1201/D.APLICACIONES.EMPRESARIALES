@@ -1,0 +1,63 @@
+{
+    "usuarios": {
+        "coordinador.practicas@uct.cl": "password123"
+    },
+    "solicitudes": {
+        "1": {
+            "estudiante": "Vicente Budini",
+            "empresa": "Sistemas Temuco SpA",
+            "estado": "En Revisión Administrativa",
+            "fecha_ingreso": "2026-06-10",
+            "fecha_vencimiento_seguro": "2026-12-31",
+            "documentos": {
+                "Seguro_Escolar_Vigente.pdf": {
+                    "presente": true,
+                    "valido": null
+                },
+                "Convenio_Firmado.pdf": {
+                    "presente": true,
+                    "valido": null
+                }
+            },
+            "observaciones": []
+        },
+        "2": {
+            "estudiante": "Camila Rojas",
+            "empresa": "Constructora Araucanía Ltda.",
+            "estado": "En Revisión Administrativa",
+            "fecha_ingreso": "2026-06-12",
+            "fecha_vencimiento_seguro": "2026-05-30",
+            "documentos": {
+                "Seguro_Escolar_Vigente.pdf": {
+                    "presente": true,
+                    "valido": false
+                },
+                "Convenio_Firmado.pdf": {
+                    "presente": false,
+                    "valido": null
+                }
+            },
+            "observaciones": []
+        },
+        "3": {
+            "estudiante": "Matías Sepúlveda",
+            "empresa": "AgroSur S.A.",
+            "estado": "Activa (En Curso)",
+            "fecha_ingreso": "2026-05-20",
+            "fecha_vencimiento_seguro": "2026-11-15",
+            "documentos": {
+                "Seguro_Escolar_Vigente.pdf": {
+                    "presente": true,
+                    "valido": true
+                },
+                "Convenio_Firmado.pdf": {
+                    "presente": true,
+                    "valido": true
+                }
+            },
+            "observaciones": [
+                "Aprobado sin observaciones. Documentación completa al día 22-05-2026."
+            ]
+        }
+    }
+}

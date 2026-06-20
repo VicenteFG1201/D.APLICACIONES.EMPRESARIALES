@@ -12,11 +12,11 @@
             "documentos": {
                 "Seguro_Escolar_Vigente.pdf": {
                     "presente": true,
-                    "valido": null
+                    "valido": false
                 },
                 "Convenio_Firmado.pdf": {
                     "presente": true,
-                    "valido": null
+                    "valido": false
                 }
             },
             "observaciones": []

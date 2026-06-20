@@ -214,10 +214,4 @@ La aplicación cuenta con:
 
 Proyecto educativo - Universidad Católica de Temuco
 
----
-
-## Soporte y Desarrollo
-
-Para consultas o reportar problemas, contactar al coordinador de prácticas:
-**coordinador.practicas@uct.cl**
 

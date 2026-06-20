@@ -6,17 +6,17 @@
         "1": {
             "estudiante": "Vicente Budini",
             "empresa": "Sistemas Temuco SpA",
-            "estado": "En Revisi√≥n Administrativa",
+            "estado": "En RevisiÛn Administrativa",
             "fecha_ingreso": "2026-06-10",
             "fecha_vencimiento_seguro": "2026-12-31",
             "documentos": {
                 "Seguro_Escolar_Vigente.pdf": {
                     "presente": true,
-                    "valido": false
+                    "valido": null
                 },
                 "Convenio_Firmado.pdf": {
                     "presente": true,
-                    "valido": false
+                    "valido": null
                 }
             },
             "observaciones": []
@@ -24,13 +24,13 @@
         "2": {
             "estudiante": "Camila Rojas",
             "empresa": "Constructora Araucan√≠a Ltda.",
-            "estado": "En Revisi√≥n Administrativa",
+            "estado": "En RevisiÛn Administrativa",
             "fecha_ingreso": "2026-06-12",
             "fecha_vencimiento_seguro": "2026-05-30",
             "documentos": {
                 "Seguro_Escolar_Vigente.pdf": {
                     "presente": true,
-                    "valido": false
+                    "valido": null
                 },
                 "Convenio_Firmado.pdf": {
                     "presente": false,
@@ -42,17 +42,17 @@
         "3": {
             "estudiante": "Mat√≠as Sep√∫lveda",
             "empresa": "AgroSur S.A.",
-            "estado": "Activa (En Curso)",
+            "estado": "En RevisiÛn Administrativa",
             "fecha_ingreso": "2026-05-20",
             "fecha_vencimiento_seguro": "2026-11-15",
             "documentos": {
                 "Seguro_Escolar_Vigente.pdf": {
                     "presente": true,
-                    "valido": true
+                    "valido": null
                 },
                 "Convenio_Firmado.pdf": {
                     "presente": true,
-                    "valido": true
+                    "valido": null
                 }
             },
             "observaciones": [

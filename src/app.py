@@ -23,17 +23,17 @@ def init_db():
             "usuarios": {"coordinador.practicas@uct.cl": "password123"},
             "solicitudes": {}
         }
-        with open(DB_FILE, 'w') as f:
+        with open(DB_FILE,'w',encoding='utf-8') as f:
             json.dump(data, f, indent=4)
 
 
 def load_data():
-    with open(DB_FILE, 'r') as f:
+    with open(DB_FILE, 'r', encoding='utf-8') as f:
         return json.load(f)
 
 
 def save_data(data):
-    with open(DB_FILE, 'w') as f:
+    with open(DB_FILE, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
 
 
